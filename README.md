@@ -5,7 +5,9 @@
 
 Screws required:
 
-5x M4 Countersunk 20mm-25mm
+4x M4 Countersunk 25mm
+
+1x M4 Countersunk 30mm
 
 1x M4 Countersunk 12mm-15mm
 
