@@ -12,3 +12,5 @@ Screws required:
 1x M4 Countersunk 12mm-15mm
 
 2x M4 Pan head    16mm-20mm
+
+2x M2.5 Countersunk 10 mm
