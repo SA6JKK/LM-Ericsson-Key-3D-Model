@@ -13,4 +13,9 @@ Screws required:
 
 2x M4 Pan head    16mm-20mm
 
-2x M2.5 Countersunk 10 mm
+3x M2.5 Countersunk 10 mm
+
+2x M2.5 Pan head 10 mm
+
+Threaded rod M4, 25 mm + 30 mm
+
