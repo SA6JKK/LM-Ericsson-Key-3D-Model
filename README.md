@@ -15,7 +15,7 @@ Screws required:
 
 3x M2.5 Countersunk 10 mm
 
-2x M2.5 Pan head 10 mm
+2x M2.5 Pan head 8 mm
 
 Threaded rod M4, 25 mm + 30 mm
 
