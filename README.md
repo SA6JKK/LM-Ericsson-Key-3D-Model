@@ -11,11 +11,13 @@ Screws required:
 
 1x M4 Countersunk 12mm-15mm
 
-2x M4 Pan head    16mm-20mm
+3x M4 Pan head    16mm-20mm (one for 05-02 connector screw)
 
 3x M2.5 Countersunk 10 mm
 
 2x M2.5 Pan head 8 mm
 
-Threaded rod M4, 4x20 mm + 25 mm + 30 mm
+Threaded rod M4, 4x20 mm + 25 mm + 30 mm = >115 mm total
+
+03-03 Pointy thing is made from M6 set screw 16 mm
 
