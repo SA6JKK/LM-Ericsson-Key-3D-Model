@@ -21,3 +21,5 @@ Threaded rod M4, 4x20 mm + 25 mm + 30 mm = >115 mm total
 
 03-03 Pointy thing is made from M6 set screw 16 mm
 
+8 mm wide spring from Aliexpress
+
